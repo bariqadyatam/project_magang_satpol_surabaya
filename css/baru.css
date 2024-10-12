@@ -1,0 +1,12 @@
+.muter {
+  animation: rotate 5s linear infinite;
+  background-color:#112473;
+  border-radius:50%;
+  width:80px;
+}
+
+@keyframes rotate {
+  to {
+    transform: rotate(360deg);
+  }
+}/*# sourceMappingURL=baru.css.map */
